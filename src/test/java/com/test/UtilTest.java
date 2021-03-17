@@ -5,6 +5,6 @@ import junit.framework.TestCase;
 
 public class UtilTest extends TestCase {
     public void testUtil() {
-        assertEquals("The output", Util.getOutput());
+        assertEquals("This is the output", Util.getOutput());
     }
 }
